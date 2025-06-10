@@ -26,9 +26,11 @@ This app solves time-wasting workflows and boosts efficiency in product presenta
 
 ---
 
-## 📱 Screenshots
+## 📱 App demo for product image stacker
 
-![Demo Preview](./assets/demo.gif)
+<p align="center">
+  <img src="./assets/demo.gif" alt="Demo Preview" width="480"/>
+</p>
 
 ---
 
